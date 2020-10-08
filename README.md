@@ -1,11 +1,11 @@
-# Very short description of the package
+# Song Lyrics
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/goodhands/song-lyrics.svg?style=flat-square)](https://packagist.org/packages/goodhands/song-lyrics)
 [![Build Status](https://img.shields.io/travis/goodhands/song-lyrics/master.svg?style=flat-square)](https://travis-ci.org/goodhands/song-lyrics)
 [![Quality Score](https://img.shields.io/scrutinizer/g/goodhands/song-lyrics.svg?style=flat-square)](https://scrutinizer-ci.com/g/goodhands/song-lyrics)
 [![Total Downloads](https://img.shields.io/packagist/dt/goodhands/song-lyrics.svg?style=flat-square)](https://packagist.org/packages/goodhands/song-lyrics)
 
-This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
+Laravel package to quickly get the lyrics to any song.
 
 ## Installation
 
